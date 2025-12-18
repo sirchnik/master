@@ -1,0 +1,15 @@
+*.pdf
+*.docx
+/.untracked/
+.env
+dist
+
+*.local*
+
+__pycache__/
+*.pyc
+.DS_Store
+
+.slidev
+
+node_modules/
